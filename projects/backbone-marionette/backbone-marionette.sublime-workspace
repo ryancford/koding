@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/js/cbs.js",
+			"settings":
+			{
+				"buffer_size": 1752,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cbs.html",
+			"settings":
+			{
+				"buffer_size": 909,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "JSHint",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rford/Workspace/backbone-marionette/assets/cbs.js",
+		"/Users/rford/Workspace/backbone-marionette/cbs.html",
+		"/Users/rford/Workspace/backbone-marionette/prehello.html",
+		"/Users/rford/Workspace/backbone-marionette/index.html",
+		"/Users/rford/Workspace/backbone-marionette/assets/js/prehello.js",
+		"/Users/rford/Workspace/backbone-marionette/assets/js/application.js",
+		"/Users/rford/Workspace/backbone-marionette/backbone-marionette.sublime-project",
+		"/Users/rford/Workspace/backbone-marionette/backbone-marionette.sublime-workspace",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/libs/jquery.iframe-transport.old.js",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/libs/jquery.iframe-transport.js",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/libs/jquery.iframe-transport.min.js",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/src/apps/discover/bazaarvoice/_base/form_view.js",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/libs/jquery.js",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/src/apps/discover/bazaarvoice/modal_views.js",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/src/views/modal_base.js",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/src/apps/discover/bazaarvoice/discover_bazaar_voice.js",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/src/apps/discover/bazaarvoice/ask_question_view.js",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/src/apps/discover/bazaarvoice/templates/edit_photo.handlebars",
+		"/Users/rford/Desktop/libs.min.js",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/scss/_qAndA.scss",
+		"/Users/rford/Workspace/OH-website/src/main/webapp/assets/js/src/apps/discover/bazaarvoice/feedback_view.js",
+		"/Users/rford/Workspace/OH-website/OEP_Web.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.js",
+			"",
+			"*.js",
+			"*.scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var",
+			" })",
+			".$",
+			">')",
+			"collection",
+			"script",
+			"\n		",
+			"attributes",
+			"files",
+			"idx",
+			"reup",
+			"reup()",
+			"upload-photo",
+			"log",
+			";\n",
+			"}\n",
+			"clearPhotoInputs",
+			"uploadPhoto",
+			"AskQuestionView",
+			"modal parent class init",
+			"edit_photo",
+			"mfp-close",
+			"modal parent class initialized",
+			"closeModal",
+			"click",
+			"mousedown",
+			"edit-photo",
+			"edit_photo",
+			"q-and-a-modal",
+			"edit_photo",
+			"closeReport",
+			"q-and-a-ctas",
+			".media",
+			"div.media",
+			"q-and-a-ctas",
+			"askQuestion",
+			"q-and-a-icon",
+			"white-space",
+			"q-and-a-detail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/js/cbs.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1222,
+								1222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "cbs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								826,
+								880
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 361.0
+	},
+	"project": "backbone-marionette.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"modal_",
+				"javascripts/src/views/modal_base.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

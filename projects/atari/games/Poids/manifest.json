@@ -1,0 +1,23 @@
+{
+	"splash":   "arcadeArt/background.jpg",
+	"titleArt": "arcadeArt/gameTitle.png",
+
+    "id":       "poids",
+    "name":     "Poids",
+    "gameClass": "Poids.js",
+
+	"modes": [
+	],
+
+	"dependencies":   [
+		"scripts/Poids.js"
+	],
+
+	"deployDependencies": [
+		"scripts/poids-min.js"
+	],
+
+	"assets": [
+		{"id":"background", "src":"images/background.jpg"}
+	]
+}

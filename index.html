@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Koding Homepage</title>
+        <link rel="stylesheet" type="text/css" href="assets/css/index.css" />
+        <script src="//cdnjs.cloudflare.com/ajax/libs/json2/20121008/json2.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+        <!--<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>-->
+        <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.2.1/lodash.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.0/backbone-min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/1.1.0-bundled/backbone.marionette.min.js"></script>
+
+        <script src="app/kd.js"></script>
+    </head>
+    <body>
+        <script type="text/html" id="template-header">
+        <header id="header">
+            <h1>Ryan Ford @ Koding</h1>
+        </header>
+        </script>
+        <script type="text/html" id="template-nav">
+        <nav id="nav">
+            <ul>
+                <li><a target="content" href="projects/default/index.html">Default Koding Landing Page</a></li>
+                <li><a target="content" href="projects/atari/index.html">Atari Arcade SDK</a></li>
+                <li><a target="content" href="projects/backbone-marionette/index.html">Backbone Marionette Playground</a></li>
+            </ul>
+        </nav>
+        </script>
+        <script type="text/html" id="template-main">
+        <section id="main">
+        </section>
+        </script>
+        <script type="text/html" id="template-footer">
+        <footer id="footer">
+        </footer>
+        </script>
+        <script>
+			$(function () {
+				kd.start();
+			});
+		</script>
+    </body>
+</html>
